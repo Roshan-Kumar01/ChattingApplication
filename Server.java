@@ -97,7 +97,7 @@ public class Server implements ActionListener
        
        
        f.setSize(450,700);
-       f.setLocation(200,50);//setting frame initial location
+       f.setLocation(200,80);//setting frame initial location
        f.setUndecorated(true);//to remove cross,minimize and maximize
        f.getContentPane().setBackground(Color.WHITE);
        

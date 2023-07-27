@@ -95,7 +95,7 @@ public class Client implements ActionListener
        f.add(send);
        
        f.setSize(450,700);
-       f.setLocation(800,50);//setting frame initial location
+       f.setLocation(800,80);//setting frame initial location
        f.setUndecorated(true);//to remove cross,minimize and maximize
        f.getContentPane().setBackground(Color.WHITE);//pure frame ko uthaya and uska background clolor change kar diya
        
@@ -183,4 +183,5 @@ public class Client implements ActionListener
             e.printStackTrace();
         }
     }
+    
 }
