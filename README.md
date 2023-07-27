@@ -1,5 +1,24 @@
 # Chatting Application
 
+# ScreenShots
+<p align="center">
+  <img src="images/ServerPic.png" height="400" hspace="20">
+  <br>
+  <b>Server Interface:</b> This is a screenshot of the Server interface.
+</p> 
+
+<p align="center">
+  <img src="images/ClientPic.png" height="400" hspace="20">
+  <br>
+  <b>Client Interface:</b> This is a screenshot of the Client interface.
+</p> 
+
+<p align="center">
+  <img src="images/BothPic.png" height="400" hspace="20">
+  <br>
+  <b>Conversation:</b> This is a screenshot showing a conversation between the Server and Client.
+</p>
+
 # Description
 This project is a simple Chatting Application implemented using Java Swing. It consists of two main components - the Server and the Client, allowing two users to exchange messages in real-time. The graphical user interface (GUI) is designed using Java Swing components, providing an interactive chat experience.
 
@@ -14,7 +33,7 @@ This project is a simple Chatting Application implemented using Java Swing. It c
 * The Server and Client GUI windows will open, and users can start sending messages to each other.
 * Type your message in the text input field at the bottom and click "Send" or press the Enter key to send the message.
 * Messages are displayed with the sender's name, message content, and timestamp.
-* To exit the application, click the "X" button on the top-right corner of the window or press the "Close" button on the Server window.
+* To exit the application, click the "<-" button on the top-right corner of the window or press the "Close" button on the Server window.
 
 # Dependencies
 * Java Development Kit (JDK)
@@ -29,9 +48,6 @@ To Compile Client: `javac Client.java`
 * Start the Client on another machine:
   To run Client: `java Client`
 
-# ScreenShots
-<p align="center">
-  <img src="images/player1win.png" height="400" hspace="20">
-  <img src="images/player2win.png" height="400" hspace="20">
-  <img src="images/draw.png" height="400" hspace="20">
-</p>  
+
+
+
